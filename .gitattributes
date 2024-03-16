@@ -1,0 +1,2 @@
+cnn_data/small-train.tar.gz filter=lfs diff=lfs merge=lfs -text
+cnn_data/small-validation.tar.gz filter=lfs diff=lfs merge=lfs -text
